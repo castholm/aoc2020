@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{F0DDC878-F4B3-431E-8FD5-493511FBBA74}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aoc2020", "src\Aoc2020\src\Aoc2020.csproj", "{A65F6967-F2F2-4F2E-9D0E-01B08DE20894}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A65F6967-F2F2-4F2E-9D0E-01B08DE20894}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A65F6967-F2F2-4F2E-9D0E-01B08DE20894}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A65F6967-F2F2-4F2E-9D0E-01B08DE20894}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A65F6967-F2F2-4F2E-9D0E-01B08DE20894}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A65F6967-F2F2-4F2E-9D0E-01B08DE20894} = {F0DDC878-F4B3-431E-8FD5-493511FBBA74}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE5B364D-1EF7-48E9-B51B-C850B3E717D4}
+	EndGlobalSection
+EndGlobal

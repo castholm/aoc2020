@@ -1,0 +1,9 @@
+{
+  "$schema": "https://json.schemastore.org/launchsettings",
+  "profiles": {
+    "Aoc2020": {
+      "commandName": "Project",
+      "commandLineArgs": "1 YOUR_CREDENTIALS_HERE"
+    }
+  }
+}
